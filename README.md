@@ -6,10 +6,15 @@ This project is a modern and responsive college website built using React, a pop
 
 # Key Features:
 👉 Responsive Design: The website is optimized for various devices and screen sizes, ensuring a seamless experience for users on desktops, tablets, and smartphones.
+
 👉 Dynamic Content: Utilizing React components, the website dynamically renders content based on user interactions and data fetched from APIs or stored locally.
+
 👉 Interactive UI: The UI is designed to be intuitive and user-friendly, featuring smooth animations, interactive elements, and a clean layout.
+
 👉 Multi-page Navigation: Users can easily navigate through different sections of the website using a structured multi-page layout or a single-page application (SPA) approach.
+
 👉 Integration with Backend Services: Optionally, the website can be integrated with backend services to handle dynamic data, user authentication, and other advanced features.
+
 👉 SEO Friendly: The website is built with SEO best practices in mind, ensuring that it is easily discoverable by search engines and accessible to a wider audience.
 
 # Technologies Used:
