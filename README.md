@@ -42,5 +42,5 @@ Make your changes, ensuring they adhere to the project's coding standards and gu
 Test your changes thoroughly.
 Submit a pull request with a clear description of your changes and the problem they solve.
 
-# click this Link:
+# Click This Link:
 
